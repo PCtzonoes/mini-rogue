@@ -1,0 +1,6 @@
+max_width = 80
+tab_spaces = 2
+hard_tabs = true
+struct_align = true
+normalize_comments = true
+normalize_includes = true
