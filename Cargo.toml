@@ -13,6 +13,6 @@ opt-level = 3
 
 
 [dependencies]
-rltk = "0.8.1"
+rltk = "0.8.7"
 specs = { version = "0.18.0", features = ["stdweb"] }
 specs-derive = "0.4.1"
